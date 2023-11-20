@@ -13,6 +13,9 @@
 <li>
 <p dir="auto">👨&zwj;💻 I specialize in frontend development, emphasizing strong foundations in web technologies. Currently, I contribute my expertise at Sigmoid, ensuring the delivery of high-quality products. Outside of my professional commitments, I dedicate my free time to crafting personal projects.</p>
 </li>
+  <li>
+<p dir="auto">⚡ To read my post on medium, check <a href="https://medium.com/@kartikbudhraja" rel="nofollow">Medium</a></p>
+</li>
 <li>
 <p dir="auto">⚡ To read my blog post, check <a href="https://dev.to/kartikbudhraja" rel="nofollow">dev.to</a></p>
 </li>
